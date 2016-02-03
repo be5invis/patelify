@@ -1,0 +1,9 @@
+{
+  "name": "patelify",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "dependencies": {
+    "patel": ">=0.27.1",
+    "through2": "*"
+  }
+}
